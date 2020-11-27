@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/eb69def5-222a-4a74-a195-0adbce76c33a/resourceGroups/GUARDIAO/providers/Microsoft.Web/sites/guardiao",
+    "appService.deploySubpath": "."
+}
